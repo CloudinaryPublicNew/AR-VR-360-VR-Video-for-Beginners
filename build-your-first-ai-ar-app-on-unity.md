@@ -1,10 +1,10 @@
-# Build Your First AI AR App on Unity {#a5e6}
+# Build Your First AI AR App on Unity {#a5e6}
 
 #### [Amara Keller](https://medium.com/@MissAmaraKay?source=user_popover)
 
 ###### [Medium Jan 4, 2018](https://medium.com/@MissAmaraKay/build-your-first-ai-ar-app-on-unity-8c12895687fa)
 
-## Then Deploy to iOS So You Can Impress Your Friends {#6658}
+## ... Then Deploy to iOS So You Can Impress Your Friends {#6658}
 
 I’ve been busy trying to make a demo that incorporates Watson API Services on Unity for workshops in early 2018. Naturally most of my time has been sunk into making it as overly complicated for myself as possible.
 

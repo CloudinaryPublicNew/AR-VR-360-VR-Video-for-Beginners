@@ -6,8 +6,16 @@
 
 ## Developing AR/VR with Unity
 
-* [Getting Started](chapter1.md)
-* [Setting up Unity](setting-up-unity.md)
+* [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
+* [Getting Started in Unity](setting-up-unity.md)
+* [Add the Watson Unity SDK](add-the-watson-unity-sdk.md)
+* [Add/Enable Vuforia](addenable-vuforia.md)
+* [Add CyberSoldier Asset](add-cybersoldier-asset.md)
+* [Configure Vuforia Image Database \(ImageTarget\)](configure-vuforia-image-database-imagetarget.md)
+* [Add C\# Script & Watson Credentials](add-c-script-and-watson-credentials.md)
+* [Add Apple ID to Xcode](add-apple-id-to-xcode.md)
+* [Deploy to iOS](deploy-to-ios.md)
+* [Troubleshooting & Gotchas](troubleshooting-and-gotchas.md)
 
 ## Delivering 360VR Video with Cloudinary
 

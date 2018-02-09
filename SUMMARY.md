@@ -19,10 +19,12 @@
 
 ## Delivering 360VR Video with Cloudinary
 
-* [Introduction](introduction.md)
+* [Introduction](/360-video-intro.md)
 * [Setting up Cloudinary](setting-up-cloudinary.md)
 * Uploading Video
 * Transcoding and Transformations
 * [Delivering Video](delivering-video.md)
 * Cloudinary Video Player
+
+
 

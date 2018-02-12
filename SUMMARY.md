@@ -21,8 +21,7 @@
 
 * [Introduction](/360-video-intro.md)
 * [Setting up Cloudinary](setting-up-cloudinary.md)
-* Uploading Video
-* Transcoding and Transformations
+* [Uploading Video](uploading-video.md)
 * [Delivering Video](delivering-video.md)
 * Cloudinary Video Player
 * [Source Code](source-code.md)

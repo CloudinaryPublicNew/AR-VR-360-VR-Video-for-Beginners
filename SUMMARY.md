@@ -23,6 +23,6 @@
 * [Setting up Cloudinary](setting-up-cloudinary.md)
 * [Uploading Video](uploading-video.md)
 * [Delivering Video](delivering-video.md)
-* Cloudinary Video Player
+* [Cloudinary Video Player](cloudinary-video-player.md)
 * [Source Code](source-code.md)
 

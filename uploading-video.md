@@ -12,9 +12,7 @@ From here, click the orange “upload” button. It might be on the top right o
 
 We’re going to be grabbing our 360° video from a web address, so go ahead and click the Web Address tab, paste in the following URL, and click the blue arrow:
 
-```
-https://res.cloudinary.com/de-demo/video/upload/v1518314168/tropical360_qjbr2d.mp4
-```
+    https://res.cloudinary.com/de-demo/video/upload/v1518314168/tropical360_qjbr2d.mp4
 
 ![Screenshot of the address typed in and the blue arrow hovered]()
 

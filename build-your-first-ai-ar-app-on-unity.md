@@ -21,11 +21,11 @@ That’s a literal window into my brain, and often why I say I cant come up with
   [**IBM Cloud account**](http://bluemix.net/)
   and credentials for
   **Watson Conversation, Speech-to-Text, and Text-to-Speech**
-  . Step-by-step instructions
-  [available](https://github.com/akeller/Unity-AI-AR/blob/master/README.md)
-  .
+  Step-by-step instructions [available](https://github.com/akeller/Unity-AI-AR/blob/master/README.md)
+  [https://github.com/akeller/Unity-AI-AR](https://github.com/akeller/Unity-AI-AR)
+
 * **Download Unity, check box for iOS Build Support and Vuforia Augmented Reality Support**
-  . I’m running 2017.3.Of3 Personal, the free version, on High Sierra. I started this app on 2017.2.Of3 and converted it over which wasn’t terrible, but because I pulled in a bunch of free assets to play around with it took some time to reimport them.
+  I’m running 2017.3.Of 3 Personal, the free version, on High Sierra. I started this app on 2017.2.Of 3 and converted it over which wasn’t terrible, but because I pulled in a bunch of free assets to play around with it took some time to reimport them.
 * **Download Xcode.**
   You won’t need it immediately \(Unity will download with MonoDevelop\) but you will need it to deploy your app.
 

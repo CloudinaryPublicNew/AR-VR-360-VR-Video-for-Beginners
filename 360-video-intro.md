@@ -10,6 +10,7 @@ By the end of this tutorial, you will built a fully-interactive 360° video exp
 	src="https://codepen.io/eeeps/live/MQpOpx"
 	frameborder="0"
 	allowfullscreen
+	crossorigin="anonymous"
 	style="
 		position: absolute;
 		top: 0;

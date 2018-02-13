@@ -8,6 +8,7 @@ We *could* drop that URL into an HTML5 `<video>` element, and call it a day. How
 
 Here’s a CodePen showing basic Cloudinary Video Player usage. I’ve commented the relevant bits; please fork it and use it as the base for the remainder of this workshop.
 
-**TODO CODEPEN EMBED**
+<p data-height="313" data-theme-id="0" data-slug-hash="pawpVM" data-default-tab="js,result" data-user="eeeps" data-embed-version="2" data-pen-title="Cloudinary 360 Player" class="codepen">See the Pen <a href="https://codepen.io/eeeps/pen/pawpVM/">Cloudinary 360 Player</a> by Eric Portis (<a href="https://codepen.io/eeeps">@eeeps</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 As you can see, our immersive 360° video is looking pretty flat, and strange. In order to deliver an immersive video experience, we’re going to have to layer a plugin on top of the base Cloudinary Video Player. 

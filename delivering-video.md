@@ -6,7 +6,7 @@ Your video has a public URL, which you can see in the right side of its resource
 
 We *could* drop that URL into an HTML5 `<video>` element, and call it a day. However, for advanced uses like streaming, playlists, and you guessed it – immersive 360 video – we’re going to be using the [Cloudinary Video Player](https://TODO) to deliver our video to the web.
 
-Here’s a CodePen showing basic Cloudinary Video Player usage. I’ve commented the relevant bits; please fork it and use it as the base for the remainder of this workshop.
+Here’s a CodePen showing basic Cloudinary Video Player usage. I’ve commented the relevant bits; please fork it, change the account name to your own Cloudinary account name, and work in the forked Pen for the remainder of this workshop.
 
 <p data-height="313" data-theme-id="0" data-slug-hash="pawpVM" data-default-tab="js,result" data-user="eeeps" data-embed-version="2" data-pen-title="Cloudinary 360 Player" class="codepen">See the Pen <a href="https://codepen.io/eeeps/pen/pawpVM/">Cloudinary 360 Player</a> by Eric Portis (<a href="https://codepen.io/eeeps">@eeeps</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

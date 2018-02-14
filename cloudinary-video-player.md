@@ -8,39 +8,66 @@ We'll use this codePen example:
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 
-### Include Cloudinary's JavaScript script and CSS link within your page header:
+##### Include Cloudinary's JavaScript script and CSS link within your page header:
 
 ```
-		<script src="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js" type="text/javascript"></script>
-
-```
-### On codePen simply click on the setting icon and add the url.
-
-```
-https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js
-
-```
-
-Now add the CSS:
-```
+<head>
+  ...
+<script src="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.css">
-
+</head>
 ```
 
-
-HTML
+####HTML:
 ```
-<!-- a fairly-standard HTML video element. Note that it does not have a src or any <source>s – we’re going to let the Cloudinary Player create those. -->
+<!-- 
+a fairly-standard HTML video element. 
+Note that it does not have a src or any <source>s 
+We’re going to let the Cloudinary Player create those. 
+-->
+
 <video
   id="demo-player"
   loop controls
   class="cld-video-player cld-fluid">
 </video>
+
 <!--
 Any attribute that you can set on a native HTML5 player can be set on a Cloudinary player, as well. Here, I’ve used the `loop`, and `controls` attributes.
 
-The `cld-video-player` class is mandatory, `cld-fluid` is optional, and ensures that the video is flexible/responsive-layout friendly.
+The `cld-video-player` class is mandatory, `cld-fluid` is optional, and ensures that the video is flexible/responsive-layout friendly. For 360 Player, note that the styles for the Panorama Plugin conflict with the cld-fluid class, so we'll omit them.
 -->
 
+```
+####Javascript:
+```
+<script> 
+
+	// Cloudinary
+
+var cld = cloudinary.Cloudinary.new({ cloud_name: "de-demo", secure: true});
+ 
+
+var options = {
+  publicId: 'tropical360_qjbr2d',
+  crossorigin:"anonymous",
+  preload:"metadata",
+  loop: true,
+  controls: true,
+  sourceTypes: ["mp4"],
+ };
+
+ var vplayer = cld.videoPlayer("demo-player", options).width(400);
+
+ </script> 
+```
+
+
+#### On codePen simply click on the setting icon and add the urls for the JavaScript and CSS directly into the settings editor:
 
 ```
+https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js
+https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.css
+
+```
+

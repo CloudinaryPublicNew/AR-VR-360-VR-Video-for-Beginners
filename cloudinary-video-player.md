@@ -1,6 +1,6 @@
 #The Cloudinary Video Player
 
-In order to get this video onto a webpage, we *could* just drop that URL into an HTML5 `<video>` element. However, for advanced uses like adaptive streaming, playlists, and you guessed it – immersive 360 video – we’re going to supercharge the native `<video>` element with the [Cloudinary Video Player](https://demo.cloudinary.com/video-player/).
+In order to get this video onto a webpage, we *could* just drop that URL into an HTML5 `<video>` element. However, for advanced uses like adaptive streaming, playlists, and you guessed it – immersive 360° video – we’re going to supercharge the native `<video>` element with the [Cloudinary Video Player](https://demo.cloudinary.com/video-player/).
 
 Here’s a CodePen showing basic Cloudinary Video Player usage. I’ve commented the relevant bits; please fork it, change the account name to your own Cloudinary account name, and work in the forked Pen for the remainder of this workshop.
 
@@ -31,6 +31,11 @@ body {
   justify-content: center;
   background: black;
 }
+
+#demo-player {
+  width: 100vw;
+  height: calc(100vw * (9/16));
+}
 </style>
 
 </head>
@@ -47,13 +52,13 @@ We’re going to let the Cloudinary Player create those.
 <video
   id="demo-player"
   loop controls
-  class="cld-video-player cld-fluid">
+  class="cld-video-player">
 </video>
 
 <!--
 Any attribute that you can set on a native HTML5 player can be set on a Cloudinary player, as well. Here, I’ve used the `loop`, and `controls` attributes.
 
-The `cld-video-player` class is mandatory, `cld-fluid` is optional, and ensures that the video is flexible/responsive-layout friendly. For 360 Player, note that the styles for the Panorama Plugin conflict with the cld-fluid class, so we'll omit them.
+The `cld-video-player` class is mandatory.
 -->
 
 ```

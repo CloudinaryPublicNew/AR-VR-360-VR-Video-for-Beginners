@@ -11,13 +11,13 @@ The url shown is the link to the original video.
 
 Cloudinary Video URLs work just like our image URLs, enabling simple transformations of the video simply by changing the URL.
 
-####Example: Scale Video to 200px wide:
+####Example:  [Scale video width to 200px](http://res.cloudinary.com/de-demo/video/upload/c_scale,w_200/v1518314168/tropical360_qjbr2d.mp4):
 ```
 http://res.cloudinary.com/de-demo/video/upload/c_scale,w_200/v1518314168/tropical360_qjbr2d.mp4
 
 ```
 
-####Example: Video with rounded corners:
+####Example:  [Style video with rounded corners](http://res.cloudinary.com/de-demo/video/upload/r_50/v1518314168/tropical360_qjbr2d.mp4):
 ```
 http://res.cloudinary.com/de-demo/video/upload/r_50/v1518314168/tropical360_qjbr2d.mp4
 

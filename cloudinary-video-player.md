@@ -42,8 +42,8 @@ The `cld-video-player` class is mandatory, `cld-fluid` is optional, and ensures 
 ####Javascript:
 ```
 <script> 
-
-	// Cloudinary
+// Cloudinary
+// remember to replace cloud_name with your Cloudinary cloud name
 
 var cld = cloudinary.Cloudinary.new({ cloud_name: "de-demo", secure: true});
  
@@ -61,9 +61,10 @@ var options = {
 
  </script> 
 ```
+That's it.  This will create a HTML 5 Video player ready to play the tropical360_qjbr2d video.
 
-
-#### On codePen simply click on the setting icon and add the urls for the JavaScript and CSS directly into the settings editor:
+####CodePen:
+##### On CodePen they manage the header and script areas, so simply click on the setting icon and add the urls for the JavaScript and CSS directly into the settings editor:
 
 ```
 https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js

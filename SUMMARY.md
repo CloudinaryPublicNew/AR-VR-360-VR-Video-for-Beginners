@@ -24,6 +24,8 @@
 * [Uploading Video](uploading-video.md)
 * [Delivering Video](delivering-video.md)
 * [Cloudinary Video Player](/cloudinary-video-player.md)
-* [VideoJs-Panorams Plugin](videojs-panorams-plugin.md)
+* [VideoJs-Panorama Plugin](/videojs-panorama-plugin.md)
 * [Source Code](source-code.md)
+
+
 

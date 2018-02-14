@@ -40,8 +40,30 @@ The `cld-video-player` class is mandatory, `cld-fluid` is optional, and ensures 
 
 ```
 ####Javascript:
+#####Minimal Code
+```
+/* create and initalize a Cloudinary instance */
+var cld = cloudinary.Cloudinary.new({
+  cloud_name: "de-demo", /* 👈 change this to your cloud name! */
+  secure: true /* use https everywhere */
+});
+
+var options = {
+  publicId: "tropical360_qjbr2d", /* the video public ID. Yours should be the smae */
+  sourceTypes: ["mp4"]
+};
+
+/* take our <video> element and give it Cloudinary Video Player superpowers */
+
+var vplayer = cld.videoPlayer(document.getElementById("demo-player"), options);
+
+
+```
+##### Additional code to add player controls and deal with cross origin hosted media. 
+
 ```
 <script> 
+
 // Cloudinary
 // remember to replace cloud_name with your Cloudinary cloud name
 

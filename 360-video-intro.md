@@ -19,6 +19,6 @@ Like this:
 </iframe>
 </div>
 
-Note: toggle video to full screen and back.
+Note: If video fails to appear, toggle video to full screen and back.
 
 Cool? Right? Let’s get started.

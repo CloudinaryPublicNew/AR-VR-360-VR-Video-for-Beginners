@@ -1,4 +1,8 @@
-# Introduction
+# Delivering 360VR Video with Cloudinary
+## Introduction
+
+#### By Eric Portis and Dan Zeitman
+
 360 VR Video is becoming a popular format for creating immersive video experiences. 360 VR camera lenses capture video with wide-angle lenses and then software converts the fisheye video to equalrectangular video that looks like this:
 
 <div style="position: relative; padding-bottom: 2%;">

@@ -1,6 +1,8 @@
 # Introduction
 
-By the end of this tutorial, you will built a fully-interactive 360° video experience on the web. Like this:
+By the end of this tutorial, you will built a fully-interactive 360° video experience on the web. 
+
+Like this:
 
 <div style="
 	position: relative;
@@ -20,6 +22,6 @@ By the end of this tutorial, you will built a fully-interactive 360° video exp
 	">
 </iframe>
 </div>
-
+note: toggle video to full screen and back.
 
 Cool? Right? Let’s get started.

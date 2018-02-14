@@ -20,6 +20,19 @@ As you can see, our immersive 360° video is looking pretty flat, and strange. I
   ...
 <script src="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.js" type="text/javascript"></script>
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/cloudinary-video-player/dist/cld-video-player.min.css">
+
+<style>
+body {
+  /* center and letterbox the video */
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: black;
+}
+</style>
+
 </head>
 ```
 

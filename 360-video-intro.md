@@ -5,7 +5,7 @@
 
 360° VR Video is becoming a popular format for creating immersive video experiences. 360° VR camera lenses capture video with wide-angle lenses and then software converts the fisheye video to equalrectangular video that looks like this:
 
-<div style="position: relative; padding-bottom: 56.25%;">
+<div style="position: relative; padding-bottom: 56.25%; margin: 1em 0;">
 <video
 	loop
 	controls

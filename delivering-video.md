@@ -1,6 +1,6 @@
 # Delivering Video
 
-Go ahead and click on the video thumbnail to get to i’s detail page.
+Go ahead and click on the video thumbnail to get to its detail page.
 
 Your video has a public URL, which you can see on the right side over here:
 

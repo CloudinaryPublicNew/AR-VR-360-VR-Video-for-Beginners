@@ -5,10 +5,8 @@ The plugin we’re going to be using is called [videojs-panorama](https://github
 Incidentally – this is not a plugin made specifically for Cloudinary’s player. But Cloudinary built its player on top of the widely used [VideoJS](http://videojs.com) framework, and plugins for VideoJS work on the Cloudinary Player, as well.
 
 
-**TODO STEPS TO INSTALL PLUGIN**
+**STEPS TO INSTALL PLUGIN:**
 
-- add Javascript libraries in CodePen
-- add CSS in CodePen
 - add plugins:{} to player options object
 
 #### Replace the Cloudinary options with this version:

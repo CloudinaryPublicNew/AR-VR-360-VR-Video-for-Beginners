@@ -5,8 +5,9 @@
 {% video width="740", height="350", loop="loop", controls="controls" %}http://res.cloudinary.com/de-demo/video/upload/v1518314168/tropical360_qjbr2d.mp4{% endvideo %}
 </div>
 
-While this is interesting, it's not a fully-interactive 360° until you create a video player with 360 playback capabilities. 
+While this is interesting, it's not a fully-interactive 360° video until you play it back in a video player with 360 playback capabilities. 
 
+Fortunately, Cloudinary's video player can easily be extended with the addition of a 360°Panorama Plugin. 
 
 By the end of this tutorial, you will built a fully-interactive 360° video experience on the web. 
 
@@ -20,8 +21,8 @@ Like this:
 	style="position: absolute;
 		top: 0;
 		left: 0;
-		width: 740;
-		height: 350;
+		width: 740px;
+		height: 350px;
 	">
 </iframe>
 </div>

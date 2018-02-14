@@ -12,7 +12,7 @@ Fortunately, Cloudinary's video player can easily be extended with the addition 
 By the end of this tutorial, you will built a fully-interactive 360° video experience on the web. 
 
 Like this:
-<div style="position: relative; padding-bottom: 35%;">
+<div style="position: relative; padding-bottom: 56.25%;">
 <iframe
 	src="//codepen.io/eeeps/live/MQpOpx"
 	frameborder="0"

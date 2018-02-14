@@ -5,7 +5,7 @@
     "html5-video",
     "codepen",
     "youtube",
-   // "sharing"
+    "sharing"
   ],
   "pluginsConfig": {
     "insert-logo": {

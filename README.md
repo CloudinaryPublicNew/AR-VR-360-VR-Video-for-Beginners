@@ -4,7 +4,7 @@
 
 #### Learn how to get started with Unity and Watson.
 
-This is part of a meet up [series](https://www.eventbrite.com/e/arvr-for-beginners-meetup-tickets-42659330205) by We Are Developers held monthly in the San Francisco Bay Area
+This is part of a meet up [series](https://www.eventbrite.com/e/arvr-for-beginners-meetup-tickets-42659330205) by We Are Developers held monthly in the San Francisco Bay Area.
 
 _Unity is the ultimate game development platform. You can use Unity_ to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR/AR, consoles or the Web, and connect with other players and customers. Watson is an artificial intelligence platform that you can integrate with Unity.
 

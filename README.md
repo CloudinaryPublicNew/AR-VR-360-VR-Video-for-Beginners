@@ -26,5 +26,5 @@ You will also learn the basics about web video and the unique considerations for
 
 In this hands-on workshop, you’ll be able to follow along with your own 4K 360 VR video, or use ours to see how you can integrate vibrant 360 VR video into your websites.
 
-Speakers: [Amara Keller, IBM Developer Advocat](https://www.linkedin.com/in/amara-keller-01676568/)e @MissAmaraKay and [Dan Zeitman, Cloudinary Developer Advocate](https://www.linkedin.com/in/dzeitman/) @FilmFestNow
+Speakers: [Amara Keller](https://www.linkedin.com/in/amara-keller-01676568/), IBM Developer Advocate [@MissAmaraKay](https://twitter.com/MissAmaraKay) and [Dan Zeitman](https://www.linkedin.com/in/dzeitman/) [@FilmFestNow](https://twitter.com/FilmFestNow)
 

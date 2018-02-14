@@ -4,17 +4,13 @@ By the end of this tutorial, you will built a fully-interactive 360° video exp
 
 Like this:
 
-<div style="
-	position: relative;
-	padding-bottom: 56.25%;
-">
+<div style="position: relative; padding-bottom: 56.25%;">
 <iframe
-	src="https://codepen.io/eeeps/live/MQpOpx"
+	src="//codepen.io/eeeps/live/MQpOpx"
 	frameborder="0"
 	allowfullscreen
 	crossorigin="anonymous"
-	style="
-		position: absolute;
+	style="position: absolute;
 		top: 0;
 		left: 0;
 		width: 100%;
@@ -22,6 +18,7 @@ Like this:
 	">
 </iframe>
 </div>
-note: toggle video to full screen and back.
+
+Note: toggle video to full screen and back.
 
 Cool? Right? Let’s get started.

@@ -4,7 +4,7 @@ In order to get this video onto a webpage, we *could* just drop that URL into an
 
 Here’s a CodePen showing basic Cloudinary Video Player usage. I’ve commented the relevant bits; please fork it, change the account name to your own Cloudinary account name, and work in the forked Pen for the remainder of this workshop.
 
-<p data-height="313" data-theme-id="0" data-slug-hash="pawpVM" data-default-tab="js,result" data-user="eeeps" data-embed-version="2" data-pen-title="Cloudinary 360 Player" class="codepen">See the Pen <a href="https://codepen.io/eeeps/pen/pawpVM/">Cloudinary 360 Player</a> by Eric Portis (<a href="https://codepen.io/eeeps">@eeeps</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="513" data-theme-id="0" data-slug-hash="pawpVM" data-default-tab="js,result" data-user="eeeps" data-embed-version="2" data-pen-title="Cloudinary 360 Player" class="codepen">See the Pen <a href="https://codepen.io/eeeps/pen/pawpVM/">Cloudinary 360 Player</a> by Eric Portis (<a href="https://codepen.io/eeeps">@eeeps</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
 Note that this Pen relies on loading the [Cloudinary Core JavaScript library](https://github.com/cloudinary/pkg-cloudinary-core), and the [Cloudinary Video Player JS + CSS](https://github.com/cloudinary/cloudinary-video-player). Check out the exact URLs to include in your own Pens and projects under “Settings”.

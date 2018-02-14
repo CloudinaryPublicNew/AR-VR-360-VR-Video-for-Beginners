@@ -26,7 +26,7 @@ Like this:
 	">
 </iframe>
 </div>
- 
+##### Video: Copyright © Discovery VR
 Note: If video fails to appear, toggle video to full screen and back.
 
 Cool? Right? Let’s get started.

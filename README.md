@@ -1,6 +1,6 @@
 # ![](/assets/ar-vr-header.png)
 
-# AR /VR /360 VR Video for Beginners
+# AR / VR / 360VR Video for Beginners
 
 #### Learn how to get started with Unity and Watson.
 

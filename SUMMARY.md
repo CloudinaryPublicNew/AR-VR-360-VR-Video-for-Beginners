@@ -19,7 +19,7 @@
     
 * Delivering 360VR Video with Cloudinary
 
-    * [Introduction](/360-video-intro.md)
+    * [Introduction to 360VR Video](/360-video-intro.md)
     * [Setting up Cloudinary](setting-up-cloudinary.md)
     * [Uploading Video](uploading-video.md)
     * [Delivering Video](delivering-video.md)

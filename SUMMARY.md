@@ -6,7 +6,7 @@
 
 ----
 
-* # Developing AR/VR with Unity
+* Developing AR/VR with Unity
 
     * [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
     *  [Getting Started in Unity](setting-up-unity.md)
@@ -21,7 +21,7 @@
 
 ----    
 
-* # Delivering 360VR Video with Cloudinary
+* Delivering 360VR Video with Cloudinary
 
     * [Introduction to 360VR Video](/360-video-intro.md)
     * [Setting up Cloudinary](setting-up-cloudinary.md)

@@ -7,7 +7,7 @@
 * Developing AR/VR with Unity
   * [Build Your First AI AR App on Unity](/unity/build-your-first-ai-ar-app-on-unity.md)
   * [Getting Started in Unity](unity/setting-up-unity.md)
-  * [Add the Watson Unity SDK](/unity/add-the-watson-unity-sdk .md)
+  * [Add the Watson Unity SDK](unity/add-the-watson-unity-sdk.md)
   * [Add/Enable Vuforia](/unity/addenable-vuforia.md)
   * [Add CyberSoldier Asset](/unity/add-cybersoldier-asset.md)
   * [Configure Vuforia Image Database](/unity/configure-vuforia-image-database-imagetarget.md)

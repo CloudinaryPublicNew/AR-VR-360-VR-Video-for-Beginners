@@ -7,7 +7,10 @@
   ],
   "pluginsConfig": {
   "theme-default": {
-      "showLevel": true
+      "showLevel": true,
+      "styles": {
+        "website": "build/gitbook.css"
+      }
       },
   "insert-logo-link": {
             "src": "https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_200/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png",

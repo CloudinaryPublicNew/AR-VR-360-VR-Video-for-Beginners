@@ -7,7 +7,7 @@
   ],
   "pluginsConfig": {
   "theme-default": {
-      "showLevel": true,
+      "showLevel": false,
       "styles": {
         "website": "build/gitbook.css"
       }

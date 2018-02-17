@@ -13,7 +13,7 @@
     * [Add the Watson Unity SDK](/unity/add-the-watson-unity-sdk .md "Add the Watson Unity SDK")
     * [Add/Enable Vuforia](/unity/addenable-vuforia.md)
     * [Add CyberSoldier Asset](/unity/add-cybersoldier-asset.md)
-    * [Configure Vuforia Image Database \(ImageTarget\)](/unity/configure-vuforia-image-database-imagetarget.md)
+    * [Configure Vuforia Image Database](/unity/configure-vuforia-image-database-imagetarget.md)
     * [Add C\# Script & Watson Credentials](/unity/add-c-script-and-watson-credentials.md)
     * [Add Apple ID to Xcode](/unity/add-apple-id-to-xcode.md)
     * [Deploy to iOS](/unity/deploy-to-ios.md)

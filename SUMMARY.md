@@ -2,9 +2,11 @@
 
 # AR /VR /360 VR Video for Beginners
 
-* [About This Lab](README.md)
+* [About Cloudinary Labs](README.md)
 
-* Developing AR/VR with Unity
+----
+
+# Developing AR/VR with Unity
 
     * [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
     *  [Getting Started in Unity](setting-up-unity.md)
@@ -16,8 +18,10 @@
     * [Add Apple ID to Xcode](add-apple-id-to-xcode.md)
     * [Deploy to iOS](deploy-to-ios.md)
     * [Troubleshooting & Gotchas](troubleshooting-and-gotchas.md)
-    
-* Delivering 360VR Video with Cloudinary
+
+----    
+
+# Delivering 360VR Video with Cloudinary
 
     * [Introduction to 360VR Video](/360-video-intro.md)
     * [Setting up Cloudinary](setting-up-cloudinary.md)

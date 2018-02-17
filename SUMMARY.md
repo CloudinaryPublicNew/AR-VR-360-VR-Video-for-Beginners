@@ -2,7 +2,7 @@
 
 # AR /VR /360 VR Video for Beginners
 
-*[Introduction](README.md)
+* [Introduction](README.md)
 
 ## Developing AR/VR with Unity
 

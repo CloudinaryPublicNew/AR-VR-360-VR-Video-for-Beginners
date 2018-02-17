@@ -1,12 +1,12 @@
 # Summary
 
-## AR /VR /360 VR Video for Beginners
+# AR /VR /360 VR Video for Beginners
 
-* [Introduction](README.md)
+## [Introduction](README.md)
 
-## Developing AR/VR with Unity
+# Developing AR/VR with Unity
 
-* [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
+## [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
 * [Getting Started in Unity](setting-up-unity.md)
 * [Add the Watson Unity SDK](add-the-watson-unity-sdk.md)
 * [Add/Enable Vuforia](addenable-vuforia.md)

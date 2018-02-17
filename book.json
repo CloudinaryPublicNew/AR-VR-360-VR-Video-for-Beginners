@@ -4,10 +4,15 @@
     "html5-video",
     "youtube",
     "sharing",
-    "collapse-expand-chapters",
+    "parts-autoindex",
     "theme-api"
   ],
   "pluginsConfig": {
+  "parts-autoindex": {
+			"level": 2,
+			"trim": 1,
+			"offset": -1
+		},
   "insert-logo-link": {
             "src": "https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_200/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png",
             "url": "https://www.cloudinary.com"

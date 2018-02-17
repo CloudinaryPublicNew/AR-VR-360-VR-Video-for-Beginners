@@ -2,11 +2,11 @@
 
 # AR /VR /360 VR Video for Beginners
 
-1. [Introduction](README.md)
+* [Introduction](README.md)
 
 ## Developing AR/VR with Unity
 
-1. [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
+* [Build Your First AI AR App on Unity](build-your-first-ai-ar-app-on-unity.md)
 *  [Getting Started in Unity](setting-up-unity.md)
 * [Add the Watson Unity SDK](add-the-watson-unity-sdk.md)
 * [Add/Enable Vuforia](addenable-vuforia.md)
@@ -19,7 +19,7 @@
 
 ## Delivering 360VR Video with Cloudinary
 
-1. [Introduction](/360-video-intro.md)
+* [Introduction](/360-video-intro.md)
 * [Setting up Cloudinary](setting-up-cloudinary.md)
 * [Uploading Video](uploading-video.md)
 * [Delivering Video](delivering-video.md)

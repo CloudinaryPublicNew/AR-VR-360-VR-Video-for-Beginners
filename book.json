@@ -1,20 +1,17 @@
 {
   "plugins": [
     "insert-logo-link",
-    "theme-api",
     "html5-video",
     "youtube",
     "sharing",
-    "collapse-expand-chapters"
+    "collapse-expand-chapter",
+    "theme-api"
   ],
   "pluginsConfig": {
   "insert-logo-link": {
             "src": "https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_200/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png",
             "url": "https://www.cloudinary.com"
         },
-    "insert-logo": {
-            "url": "https://res.cloudinary.com/cloudinary/image/upload/c_scale,w_200/v1/logo/for_white_bg/cloudinary_logo_for_white_bg.png"
-    },
     "sharing": {
       "facebook": true,
       "twitter": true,

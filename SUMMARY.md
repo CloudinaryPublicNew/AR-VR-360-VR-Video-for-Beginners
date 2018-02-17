@@ -27,5 +27,3 @@
 * [VideoJs-Panorama Plugin](/videojs-panorama-plugin.md)
 * [Source Code](source-code.md)
 
-
-

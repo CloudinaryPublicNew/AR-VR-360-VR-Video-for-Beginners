@@ -4,7 +4,8 @@
     "theme-api",
     "html5-video",
     "youtube",
-    "sharing"
+    "sharing",
+    "collapse-expand-chapters"
   ],
   "pluginsConfig": {
   "insert-logo-link": {

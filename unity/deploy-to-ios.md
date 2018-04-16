@@ -1,17 +1,15 @@
-# Deploy to iOS
+# Deploy to iOS
 
-## Deploy to iOS
-
-\_Disclaimer:\_In this section,\_y\_ou are going to be working in the Unity Editor and Xcode. You may see warnings appear in Xcode that did not appear in the Unity Editor console.
+_Disclaimer:_In this section,_y_ou are going to be working in the Unity Editor and Xcode. You may see warnings appear in Xcode that did not appear in the Unity Editor console.
 
 In the Unity Editor go to File &gt; Build Settings. Click the “Add Open Scenes” button. Then select “iOS” as the platform.
 
-Click “Player Settings” and make your Company Name and Product Name something unique to you and your app. Expand “Other Settings” and provide a Bundler Identifier in the form of\_com.CompanyName.ProductName\_with the same names you provided above.
+Click “Player Settings” and make your Company Name and Product Name something unique to you and your app. Expand “Other Settings” and provide a Bundler Identifier in the form of_com.CompanyName.ProductName_with the same names you provided above.
 
 This app will use the camera and microphone, so under the Configuration section you need to make sure the Camera Usage Description and Microphone Usage Description are set. I recommend something similar to the following:
 
 > Camera Usage Description: Camera access required for target detection and tracking
->
+
 > Microphone Usage Description: Microphone access required for speech-to-text service
 
 If you do not set the Microphone Usage Description, your app will crash immediately after the camera loads, and may not throw an obvious error message.
@@ -26,7 +24,7 @@ Reopen the Build Settings modal if you closed it \(I did, it was in the way\). C
 
 If you did what I did the first time around, you added like every cool free asset you could get your hands on and didn’t remove it. So my build took a fair amount of time. Get up, make yourself some tea, check the mail, and maybe it will be done when you get back. I doubt yours will take that long unless you went asset crazy too.
 
-Once your build is complete, Finder should pop up showing the folder containing your build files. Open it and click the .xcodeproj file.
+Once your build is complete, Finder should pop up showing the folder containing your build files. Open it and click the .xcodeproj file.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*OJoNmEb-2Apga2_qmjqh_Q.png)
 
@@ -58,7 +56,12 @@ Tap the app to start it. You should allow the camera and microphone for the app 
 
 Can you hear Watson? Does Watson hear you?**Congrats! You are done!**
 
-## Finished!
+# Finished!
 
 At this point, you can go back to your Unity Editor and add additional assets or script new functionality. Remember you’ll need to rebuild your project in Unity, and then of course rebuild and compile in Xcode, plug your phone in a redeploy. But the sky is the limit! Let me know what you do in the comments.
+
+---
+
+  
+
 

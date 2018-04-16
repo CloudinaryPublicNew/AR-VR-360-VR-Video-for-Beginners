@@ -1,6 +1,6 @@
-# Configure Vuforia Image Database
+# Configure Vuforia Image Database \(ImageTarget\)
 
-\_Disclaimer:\_In this section,\_y\_ou are going to be working in the Unity Editor and a browser, flipping back and forth between the two. I think this makes the most sense for learning, even if it feels a little annoying.
+_Disclaimer:_In this section,_y_ou are going to be working in the Unity Editor and a browser, flipping back and forth between the two. I think this makes the most sense for learning, even if it feels a little annoying.
 
 Head over the[Vuforia Developer Portal](https://developer.vuforia.com/). Create an account if you haven’t already and log in. You should see the License Manager after you login. Click “Get Development Key” and name it something interesting \(perhaps the same interesting thing you named your app!\)
 
@@ -41,4 +41,7 @@ You should now see your Cyber Soldier standing on some rocks. You could be an ov
 Pizza sliced wedged into my Cyber Soldier’s hand \(pizza requires additional assets\).
 
 As a future item, I’d like to convert this to using Smart Terrain or Ground Planes instead of ImageTargets. As fun as ImageTargets are, I think they might limit inspiration of other interesting ways to use VR.
+
+  
+
 

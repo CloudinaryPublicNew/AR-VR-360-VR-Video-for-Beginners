@@ -1,7 +1,10 @@
-# ![](/assets/ar-vr-header.png)
+# About Cloudinary Labs
 
-# Cloudinary Labs
-##AR / VR / 360VR Video for Beginners
+![](.gitbook/assets/ar-vr-header.png)
+
+## Cloudinary Labs
+
+### AR / VR / 360VR Video for Beginners
 
 #### Learn how to get started with Unity and Watson.
 
@@ -27,5 +30,5 @@ You will also learn the basics about web video and the unique considerations for
 
 In this hands-on workshop, you’ll be able to follow along with your own 4K 360 VR video, or use ours to see how you can integrate vibrant 360 VR video into your websites.
 
-Speakers: [Amara Keller](https://www.linkedin.com/in/amara-keller-01676568/), IBM Developer Advocate [@MissAmaraKay](https://twitter.com/MissAmaraKay) and [Dan Zeitman](https://www.linkedin.com/in/dzeitman/), Cloudinary Developer Advocate  [@FilmFestNow](https://twitter.com/FilmFestNow)
+Speakers: [Amara Keller](https://www.linkedin.com/in/amara-keller-01676568/), IBM Developer Advocate [@MissAmaraKay](https://twitter.com/MissAmaraKay) and [Dan Zeitman](https://www.linkedin.com/in/dzeitman/), Cloudinary Developer Advocate [@FilmFestNow](https://twitter.com/FilmFestNow)
 

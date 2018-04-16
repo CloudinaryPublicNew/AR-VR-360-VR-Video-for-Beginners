@@ -1,4 +1,6 @@
-# Troubleshooting & Gotchas
+# Troubleshooting & Gotchas
+
+## Troubleshooting & Gotchas
 
 High Sierra had some issues playing nice with my external monitor setup. I had to download a special version of MonoDevelop for Unity to load my project.
 
@@ -10,7 +12,5 @@ I turned off multithreading to get my app to crash with a runtime error. Prior t
 
 Watson Speech-to-Text doesn’t work well in loud rooms so I’d recommend headphones with a mic in this case.
 
-
-  
-# [Next Lab: Delivering 360VR Video with Cloudinary](/cloudinary/360-video-intro.md)
+## [Next Lab: Delivering 360VR Video with Cloudinary](../../lab-2/delivering-360vr-video-with-cloudinary/introduction-to-360vr-video.md)
 

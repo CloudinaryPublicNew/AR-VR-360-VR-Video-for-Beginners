@@ -3,9 +3,7 @@
 I did most of the hard work for you. Is it production worthy code? I mean, probably not. Does it get you inspired to write production code? Of course!
 
 [**akeller/Unity-AI-AR**  
-_Contribute to Unity-AI-AR development by creating an account on GitHub._github.com](https://github.com/akeller/Unity-AI-AR)
-
-
+\_Contribute to Unity-AI-AR development by creating an account on GitHub.\_github.com](https://github.com/akeller/Unity-AI-AR)
 
 The repo linked above contains a single C\# file you can copy over. I recommend opening it \(or copying it into\) your favorite IDE or text editor and make the changes below.
 
@@ -28,10 +26,7 @@ If the build is successful, you should now be able to hit the play button on you
 
 ![](https://cdn-images-1.medium.com/max/1600/1*5ajdgIkzjlQC4d_0ESBrNA.png)
 
-That time I ordered a “she’s” pizza
+That time I ordered a “she’s” pizza
 
 Feel free to stop here and do a little searching to steps to deploy to Android. Or deploy nowhere and happily run it on your laptop! Up to you.
-
-  
-
 

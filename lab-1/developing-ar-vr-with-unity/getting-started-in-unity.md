@@ -1,8 +1,8 @@
 # Getting Started in Unity
 
-Open Unity and create a new 3D Project. 
+Open Unity and create a new 3D Project.
 
-Name your project something interesting and put it somewhere that makes sense for you. In the process of downloading Unity and getting a personal license, you should have created an account. 
+Name your project something interesting and put it somewhere that makes sense for you. In the process of downloading Unity and getting a personal license, you should have created an account.
 
 Login to the using “My Account” if you haven’t already.
 

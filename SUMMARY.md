@@ -18,7 +18,7 @@
 
 ## Lab 2
 
-* Delivering 360VR Video with Cloudinary
+* [Delivering 360VR Video with Cloudinary](lab-2/delivering-360vr-video-with-cloudinary.md)
   * [Introduction to 360VR Video](/cloudinary/360-video-intro.md)
   * [Setting up Cloudinary](/cloudinary/setting-up-cloudinary.md)
   * [Uploading Video](/cloudinary/uploading-video.md)
